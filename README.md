@@ -10,11 +10,11 @@ An interactive Tableau dashboard that analyzes 1,324 British Airways customer re
 
 ## 📸 Dashboard Preview
 
-![Dashboard overview](images/dashboard-overview.png)
+
 
 | Aircraft view | Country map | Monthly trend |
 |---|---|---|
-| ![Aircraft](images/aircraft-sheet.png) | ![Map](images/map-sheet.png) | ![Month](images/month-sheet.png) |
+
 
 ---
 
